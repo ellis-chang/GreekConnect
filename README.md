@@ -1,7 +1,3 @@
-# Blueface
-Group Project - README Template
-===
-
 # GreekConnect
 
 
